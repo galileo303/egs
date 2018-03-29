@@ -1,0 +1,9 @@
+
+html, body, #root {
+  height: 100%;
+}
+
+.ant-input {
+  width: 200px;
+  margin: 0 8px 8px 0;
+}
